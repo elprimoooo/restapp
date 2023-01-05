@@ -1,5 +1,5 @@
 {
     "env": {
-        "MONGODB_PW": "dbpass"
+        "MONGODB_PW": "adminadmin"
     }
 }
